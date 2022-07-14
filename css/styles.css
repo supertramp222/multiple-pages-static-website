@@ -1,0 +1,27 @@
+body {
+  background-color: #f7e9a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  color: green;
+  margin: 10px;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+  border-radius: 16px;
+}
+
+.navigation-links {
+  text-align: center;
+}
+
+.mail-link {
+  color: blue;
+}
